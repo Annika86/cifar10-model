@@ -33,8 +33,9 @@ How to proceed: (WIP)
 - [x] add data loader
 - [x] show first 10 train images with matplotlib to get an idea about the images
 - [x] decide on an architecture
-- [ ] implement architecture
+- [x] visualize the model with netron.app
+- [x] implement architecture
+- [x] implement loss function
 - [ ] train the model
 - [ ] test the model
 - [ ] save
-- [ ] visualize the model with netron.app
